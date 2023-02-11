@@ -1,0 +1,112 @@
+h1 {
+
+}
+li{
+  list-style: none;
+}
+input, select{
+  margin: 5px;
+  width: 100%;
+}
+label {
+  margin: 0 5px;
+}
+
+
+/* nav styling */
+.navbar-brand {
+  margin: auto 5rem;
+}
+
+
+/*universal styling */
+.main {
+  margin: 10px;
+}
+
+
+/* jumbotron styling */
+.jumbo {
+  background-image: url("../images/background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 90vh;
+  max-height: 933px;
+}
+.card {
+  background: rgba(158, 157, 157, 0.7);
+  margin: 50px auto;
+  max-width: 500px;
+}
+.title-card {
+  margin: 20px;
+}
+
+
+ /*main page*/
+.content {
+  margin-bottom: 10vh
+}
+.info {
+  margin: 2rem;
+}
+
+
+/* mailing list page*/
+.form-row {
+  margin: auto 0;
+  padding: 1rem;
+  min-height: 50vh;
+}
+.form-card {
+  background-color: rgb(232, 231, 227);
+  border-radius: 3px;
+  box-shadow: 3px 3px 8px black;
+  padding: 1rem;
+}
+.submitBtn{
+  background-color: rgb(204, 203, 198);
+}
+.list {
+  font-family: 'Anton', sans-serif;
+  margin: 30px 0;
+}
+.list-header {
+  text-decoration: underline;
+}
+/*about page*/
+.tbl{
+  padding: 2rem;
+}
+.tbl td {
+  border-bottom: 1px solid black;
+}
+.picture{
+  margin: auto;
+}
+.picture img{
+  max-height: 500px;
+  margin: auto;
+}
+
+/* footer styling*/
+.footer {
+  background: black;
+  color: white;
+  margin: 0;
+  width: 100%;
+}
+.footer-col {
+  margin: 0;
+  padding: 10px;
+}
+
+/* media query */
+@media (max-width: 768px) {
+  .jumbo {
+    height: auto;
+  }
+  .right {
+    display: none;
+  }
+}

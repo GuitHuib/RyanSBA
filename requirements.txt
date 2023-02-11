@@ -1,0 +1,49 @@
+Since this is your first time creating a 3-page website
+
+
+Photos: https://www.pexels.com/search/template/
+Text: https://www.lipsum.com/
+GIFs: https://www.motionelements.com/free/stock-footageLinks to an external site.
+Useful API sites:
+https://rapidapi.com/
+https://any-api.com/
+https://github.com/toddmotto/public-apis#public-apis-
+https://apilist.fun/
+Deliverable:
+
+A theme for your site that you feel comfortable with
+Complete all technical requirements for HTML, CSS, and Javascript
+Research for a public API that can provide you with content (Optional)
+Include a README file. The file should include technical specifications and a description of your website.
+Host on GitHub,  include the link to your GitHub account in the README file(optional)
+Submit the project in a ZIP file
+Technical requirements:
+
+HTML
+
+x Have at least 3 pages, keep the grid system consistent as much as possible
+x Use at least 10 different HTML tags
+Use HTML tables
+x Implement at least two uses for forms
+x Dropped Down Menu
+x Use web fonts
+x Use different types of content in the form of text, images, videos, and GIFs
+Use regex validation
+
+CSS
+
+x Inline, internal, and external styling
+x Use five different CSS selectors
+x Don’t use too many fonts
+x Use colors that complement each other
+Use Flexbox (Optional)
+Use SASS/SCSS (Optional)
+Use animations (Optional)
+
+Javascript
+
+x External scripts
+Use variables, if statements, loops, at least one form of collections, functions/call back, and events.
+Use AJAX (Optional)
+Use JSON or XML (Optional)
+Use JQuery (Optional)
